@@ -15,7 +15,7 @@ For updates & latest news please follow us on our twitter page: https://twitter.
 
 ### Play The Demo
 
-<a href="/SoManyDoors/index.html">Here</a>
+<a href="./SoManyDoors/index.html">Here</a>
 
 <!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for-->
 
