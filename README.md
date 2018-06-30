@@ -1,15 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to So Many Doors Page
 
-You can use the [editor on GitHub](https://github.com/uareurapid/somanydoors/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<!--You can use the [editor on GitHub](https://github.com/uareurapid/somanydoors/edit/master/README.md) to maintain and preview the content for your website in Markdown files.-->
+So Many Doors is a retro puzzle platformer inspired by the Game Boy look & feel.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Try to find your way through the levels, moving from door to door. Choose wisely and most important, don't die! If you can!
 
-### Markdown
+Demo contains first 4 levels! (MacOSX & WebGL)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Please note that this game is still in development, it is not a finished product, so don't expect everything to work perfectly :-)
 
-```markdown
-Syntax highlighted code block
+For updates & latest news please follow us on our twitter page: https://twitter.com/crackedegggames 
+
+<!--Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.-->
+
+### Play The Demo
+
+<!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for-->
+
+<!--```markdown-->
+<!-- Syntax highlighted code block
 
 # Header 1
 ## Header 2
@@ -26,7 +35,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
@@ -34,4 +43,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.-->
