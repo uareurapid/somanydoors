@@ -17,7 +17,7 @@ For updates & latest news please follow us on our twitter page: https://twitter.
 
 <a href="https://uareurapid.github.com/somanydoors/SoManyDoors/index.html">Here</a>
 
-<img src="https://github.com/uareurapid/somanydoors/cave.png">
+<img src="https://uareurapid.github.io/somanydoors/cave.png">
 <!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for-->
 
 <!--```markdown-->
