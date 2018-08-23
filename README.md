@@ -1,5 +1,8 @@
 ## Welcome to So Many Doors Page
 
+---
+page-img:  "https://uareurapid.github.io/somanydoors/cave.png"
+---
 <!--You can use the [editor on GitHub](https://github.com/uareurapid/somanydoors/edit/master/README.md) to maintain and preview the content for your website in Markdown files.-->
 So Many Doors is a retro puzzle platformer inspired by the Game Boy look & feel.
 
