@@ -58,7 +58,9 @@ footer-link-col: "#404040"
 
 navbar-img: "/img/cave.png"
 # footer-img: "/img/bgimage.png"
-page-img:  "img/cave.png"
+page-img: "img/cave.png"
+
+bigimg: "img/cave.png"
 
 # --- Footer options --- #
 
