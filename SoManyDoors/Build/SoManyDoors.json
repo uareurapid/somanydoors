@@ -1,12 +1,15 @@
 {
-"TOTAL_MEMORY": 268435456,
+"companyName": "Cracked Egg Games",
+"productName": "So Many Doors",
 "dataUrl": "SoManyDoors.data.unityweb",
 "asmCodeUrl": "SoManyDoors.asm.code.unityweb",
 "asmMemoryUrl": "SoManyDoors.asm.memory.unityweb",
 "asmFrameworkUrl": "SoManyDoors.asm.framework.unityweb",
 "asmSymbolsUrl": "SoManyDoors.asm.symbols.unityweb",
+"TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
-"backgroundColor": "#BFBFBF"
+"backgroundColor": "#BFBFBF",
+"cacheControl": {"default": "must-revalidate"}
 }
