@@ -11,7 +11,7 @@ body {
   font-size: 18px;
   color: #404040;
   position: relative;
-  background-color: ##d7e894
+  background-color: #d7e894
   /* {{ site.page-col }};*/
   {% if site.page-img %}
   background-image: url({{ site.page-img }});
