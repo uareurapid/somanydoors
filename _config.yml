@@ -4,10 +4,10 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-
-url: https://uareurapid.github.io/somanydoors
-baseurl: /somanydoors
-
+---
+url: "https://uareurapid.github.io/somanydoors"
+baseurl: "/somanydoors"
+---
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
@@ -43,7 +43,7 @@ title-img: img/cave.png
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#404040;"
+navbar-col: "#404040"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#d7e894"
@@ -56,11 +56,11 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-navbar-img: img/cave.png
+navbar-img: "img/cave.png"
 # footer-img: "/img/bgimage.png"
-page-img: img/cave.png
+page-img: "img/cave.png"
 
-bigimg: img/cave.png
+bigimg: "img/cave.png"
 
 # --- Footer options --- #
 
