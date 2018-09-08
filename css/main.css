@@ -11,7 +11,8 @@ body {
   font-size: 18px;
   color: #404040;
   position: relative;
-  background-color: {{ site.page-col }};
+  background-color: ##d7e894
+  /* {{ site.page-col }};*/
   {% if site.page-img %}
   background-image: url({{ site.page-img }});
   background-attachment: fixed;
